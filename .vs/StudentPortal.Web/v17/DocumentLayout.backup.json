@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\migrations\\20240901112412_initial miagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\20240901112412_initial miagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\projects\\practice\\crudstudentportal\\studentportal.web\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C755407-4444-415F-B754-6EC1A8791016}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T11:59:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T11:57:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T11:55:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:24:17.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240901112412_Initial Miagration.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\20240901112412_Initial Miagration.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\20240901112412_Initial Miagration.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Migrations\\20240901112412_Initial Miagration.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Migrations\\20240901112412_Initial Miagration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:24:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T11:13:12.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:07:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:06:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:01:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T11:01:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:58:48.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\Practice\\CRUDStudentPortal\\StudentPortal.Web\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:56:37.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
